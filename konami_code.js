@@ -13,8 +13,10 @@ const codes = [
 
 function init() {
   
+  const input =
+  
   document.body.addEventListener("keydown",(event));{
-    if (event.)
+     
     
   
 
