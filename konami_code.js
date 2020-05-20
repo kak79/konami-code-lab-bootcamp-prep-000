@@ -35,7 +35,7 @@ let index = 0;
         index++;
  
       if (index === codes.length) {
-        alert("");
+        alert("Hurrah!");
  
         index = 9;    
         
