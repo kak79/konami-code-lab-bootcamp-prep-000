@@ -24,18 +24,21 @@ let index = 0;
        alert("Sorry!");
  
        index = 0;
+       
      }
+     
    } 
      else if  (key === codes[index]){
         index++;
  
-     if (index === codes.length) {
-       alert("Hurrah!");
+      if (index === codes.length) {
+        alert("Hurrah!");
  
-       index = 9;    
+        index = 9;    
+        
+      }
+ 
     }
- 
-   }
      
   });
   
