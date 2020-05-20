@@ -26,9 +26,9 @@ let index = 0;
        index = 0;
      }
    } 
-     else if  {
-     index = 9;
-     alert("Hurray!");
+     else if  (key === codes[index]){
+     
+     
    }
  
      
