@@ -13,7 +13,8 @@ const codes = [
 
 function init() {
   
-  const input =
+  const input = document.querySelector('input');
+  const log = document.getElementById('log');
   
   document.body.addEventListener("keydown",(event));{
      
