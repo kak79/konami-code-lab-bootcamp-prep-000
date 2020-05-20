@@ -28,7 +28,7 @@ let index = 0;
     }
   } else {
     alert("Hurray!");
-    index = 0;
+    index = 9;
   }
  
      
