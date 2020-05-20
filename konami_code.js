@@ -26,10 +26,10 @@ let index = 0;
        index = 0;
      }
    } 
-    // else {
-     //index = 9;
-     //alert("Hurray!");
-  // }
+     else if  {
+     index = 9;
+     alert("Hurray!");
+   }
  
      
   });
