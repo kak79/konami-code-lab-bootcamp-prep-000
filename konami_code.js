@@ -28,6 +28,7 @@ let index = 0;
      }
      
    } 
+   
      else if  (key === codes[index]){
         index++;
  
