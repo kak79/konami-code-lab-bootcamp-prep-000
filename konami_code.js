@@ -23,7 +23,7 @@ let index = 0;
      index++;
  
      if (index === codes.length) {
-       alert("Hurrah!");
+       alert("Hurrah");
  
        index = 0;
        
