@@ -30,7 +30,7 @@ let index = 0;
         index++;
  
      if (index === codes.length) {
-       alert("Sorry!");
+       alert("Hurrah!");
  
        index = 9;    
     }
