@@ -17,19 +17,19 @@ let index = 0;
   
   document.body.addEventListener("keydown",(event) => {
      
-    
-  if (key === codes[index]) {
-    index++;
+   if (key === codes[index]) {
+     index++;
  
-    if (index === codes.length) {
-      alert("Sorry!");
+     if (index === codes.length) {
+       alert("Sorry!");
  
-      index = 0;
-    }
-  } else {
-    index = 9;
-    alert("Hurray!");
-  }
+       index = 0;
+     }
+   } 
+     else {
+     index = 9;
+     alert("Hurray!");
+   }
  
      
   });
