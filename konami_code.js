@@ -22,12 +22,12 @@ let index = 0;
     index++;
  
     if (index === codes.length) {
-      alert("Hurray!");
+      alert("Sorry!");
  
       index = 0;
     }
   } else {
-    alert("Sorry!");
+    alert("Hurray!");
     index = 0;
   }
  
