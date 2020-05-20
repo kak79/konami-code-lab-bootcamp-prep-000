@@ -18,7 +18,11 @@ function init() {
   
   document.body.addEventListener("keydown",(event));{
      
-    
+    input.addEventListener('keydown', logKey);
+
+   function logKey(e) {
+     log.textContent += ` ${e.code}`;
+    }
   
 
 
